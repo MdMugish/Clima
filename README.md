@@ -165,5 +165,5 @@ func convertTimestampToDate(timeStamp : Int64)
 
 ```
 
-![alt text](https://github.com/MdMugish/Clima/blob/main/Notification%20Permission.png)
-![alt text](https://github.com/MdMugish/Clima/blob/main/Weather%20Dashboard%20.png)
+![alt text](https://github.com/MdMugish/Clima/blob/master/Notification%20Permission.png)
+![alt text](https://github.com/MdMugish/Clima/blob/master/Weather%20Dashboard%20.png)
